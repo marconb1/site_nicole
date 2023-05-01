@@ -671,6 +671,13 @@ a:focus {
     }
 }
 
+@media screen and (max-width: 767px) {
+    .about-img {
+      text-align: center;
+    }
+  }
+
+
 
 /*******************************/
 /******* Experience CSS ********/
