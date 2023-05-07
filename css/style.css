@@ -302,27 +302,24 @@ a:focus {
   
   .overlay {
     position: absolute;
-    top: 30%;
-    left: -30px; /* Adjusts the distance between the image and the overlay */
-    transform: translateY(-50%);
+    top: 50%;
+    left: 12%;
+    transform: translate(-50%, -50%);
     width: 60px;
-    height: 50px; /* Change this to adjust the size of the square */
-    background-color: #b76e79; /* Use your desired color here */
-  }
+    height: 50px;
+    background-color: #b76e79;
+}
+  
 
 .hero .hero-image .overlay {
     position: absolute;
     top: 50%;
-    left: 0;
     transform: translate(-50%, -50%);
     width: 60px;
     height: 60px;
     background-color: #ff69b4;
     z-index: 1;
   }
-
-
-
 
 .clipped {
     border-radius: 60px 0 60px 0;
