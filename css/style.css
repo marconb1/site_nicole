@@ -271,7 +271,7 @@ a:focus {
     position: relative;
     width: 100%;
     margin-bottom: 45px;
-    height: 350px;
+    height: 430px;
     padding: 120px 0 0 0;
     overflow: hidden;
     background: #b76e79;
@@ -329,7 +329,7 @@ a:focus {
 
 .hero .hero-content {
     position: relative;
-    padding-left: 75px;
+    padding-left: 140px;
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -345,10 +345,11 @@ a:focus {
 
 .hero .hero-text h1 {
     color: #ffffff;
-    font-size: 60px;
+    font-size: 42px;
     font-weight: 700;
-    letter-spacing: 3px;
-    margin-bottom: 15px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    line-height: 1.2;
 }
 
 .hero .hero-text h2 {
@@ -362,6 +363,15 @@ a:focus {
 
 .hero .hero-text .typed-text {
     display: none;
+}
+
+.hero .hero-text .hero-subtitle {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+    opacity: 0.9;
 }
 
 .hero .hero-text .typed-cursor {
@@ -393,6 +403,8 @@ a:focus {
 @media (max-width: 991.98px) {
     .hero {
         padding-top: 60px;
+        height: auto;
+        padding-bottom: 40px;
     }
     
     .hero .hero-content {
@@ -402,9 +414,14 @@ a:focus {
     .hero .hero-text p {
         font-size: 20px;
     }
+
+    .hero .hero-text .hero-subtitle {
+        font-size: 14px;
+    }
     
     .hero .hero-text h1 {
-        font-size: 45px;
+        font-size: 30px;
+        letter-spacing: 0;
     }
     
     .hero .hero-text h2 {
@@ -422,6 +439,7 @@ a:focus {
     .hero {
         padding-top: 60px;
         padding-bottom: 60px;
+        height: auto;
     }
     
     .hero,
@@ -434,9 +452,13 @@ a:focus {
     .hero .hero-text p {
         font-size: 18px;
     }
+
+    .hero .hero-text .hero-subtitle {
+        font-size: 13px;
+    }
     
     .hero .hero-text h1 {
-        font-size: 35px;
+        font-size: 28px;
     }
     
     .hero .hero-text h2 {
@@ -454,9 +476,15 @@ a:focus {
     .hero .hero-text p {
         font-size: 16px;
     }
+
+    .hero .hero-text .hero-subtitle {
+        font-size: 12px;
+        letter-spacing: 0;
+    }
     
     .hero .hero-text h1 {
-        font-size: 30px;
+        font-size: 22px;
+        letter-spacing: 1px;
     }
     
     .hero .hero-text h2 {
@@ -575,11 +603,13 @@ a:focus {
     position: relative;
     font-size: 45px;
     font-weight: 700;
+    color: #ffffff;
 }
 
 @media (max-width: 767.98px) {
     .section-header-pink h2 {
         font-size: 30px;
+        color: #ffffff;
     }
 }
 
@@ -1473,6 +1503,34 @@ a:focus {
     width: 100%;
 }
 
+.footer .footer-info address {
+    font-style: normal;
+    text-align: center;
+    color: #ffffff;
+    font-size: 17px;
+    line-height: 1.9;
+    margin-bottom: 15px;
+}
+
+.footer .footer-info address strong {
+    font-size: 20px;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 6px;
+}
+
+.footer .footer-contact a {
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.footer .footer-contact a:hover {
+    color: #f0d0d5;
+    text-decoration: underline;
+}
+
+/* Legacy selectors kept for safety */
 .footer .footer-info h2 {
     margin-bottom: 20px;
     font-size: 30px;

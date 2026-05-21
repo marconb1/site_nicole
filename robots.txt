@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://psiconicoletartarelli.com.br/sitemap.xml
