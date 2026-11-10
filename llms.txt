@@ -2,7 +2,7 @@
 
 > Site profissional de Nicole Abreu Tartarelli, psicóloga (CRP 07/29435), com atendimento para crianças, adolescentes e adultos no bairro Cristal, Zona Sul de Porto Alegre – RS.
 
-Nicole é formada em Psicologia pela PUCRS e especialista em psicoterapia de orientação psicanalítica pelo Instituto Horizontes. Oferece psicoterapia presencial e online, conforme avaliação individual da demanda. As consultas têm duração de 45 minutos e os encontros são, no mínimo, semanais.
+Nicole é formada em Psicologia pela PUCRS e especialista em psicoterapia de orientação psicanalítica pelo Instituto Horizontes. Psicanalista em formação pelo CEPdePA – Centro de Estudos Psicanalíticos de Porto Alegre. Oferece psicoterapia presencial e online, conforme avaliação individual da demanda. As consultas têm duração de 45 minutos e os encontros são, no mínimo, semanais.
 
 Consultório: Av. Wenceslau Escobar, 1134, sala 310, bairro Cristal, Porto Alegre – RS, CEP 91910-712. Telefone e WhatsApp: +55 51 99313-2970. E-mail: psinictartarelli@gmail.com. Agenda e valores são consultados diretamente com a profissional.
 
@@ -11,10 +11,23 @@ Consultório: Av. Wenceslau Escobar, 1134, sala 310, bairro Cristal, Porto Alegr
 - [Página inicial](https://psiconicoletartarelli.com.br/): apresentação da profissional, abordagem, modalidades e contato.
 - [Psicoterapia infantil](https://psiconicoletartarelli.com.br/psicologa-infantil-porto-alegre/): atendimento de crianças no bairro Cristal, com o brincar e os jogos como formas de expressão.
 - [Psicoterapia para adolescentes](https://psiconicoletartarelli.com.br/psicologa-adolescentes-porto-alegre/): abordagem, funcionamento e dúvidas sobre o atendimento na adolescência.
+- [Psicoterapia para adultos](https://psiconicoletartarelli.com.br/psicanalise-adultos-porto-alegre/): psicoterapia de orientação psicanalítica no Cristal e online, conforme avaliação individual.
 - [Formação de Nicole](https://psiconicoletartarelli.com.br/#about): graduação, especialização e registro profissional.
 - [Atendimento online](https://psiconicoletartarelli.com.br/#online): videochamadas e avaliação individual da adequação da modalidade.
 - [Localização do consultório](https://psiconicoletartarelli.com.br/#contact): endereço e mapa na Zona Sul de Porto Alegre.
 - [Perguntas frequentes](https://psiconicoletartarelli.com.br/#perguntas-frequentes): públicos atendidos, formação, duração das consultas e agendamento.
+
+## Conteúdos
+
+- [Conteúdos e guias](https://psiconicoletartarelli.com.br/conteudos/): infância, adolescência, sofrimento e processo terapêutico.
+- [Psicanálise infantil: por que o brincar é fundamental?](https://psiconicoletartarelli.com.br/conteudos/psicanalise-infantil-brincar/): Como jogos, histórias e brincadeiras encontram lugar na escuta da criança.
+- [Quando levar meu filho ao psicólogo? 7 sinais de atenção](https://psiconicoletartarelli.com.br/conteudos/quando-levar-filho-psicologo/): Sono, medos, escola e mudanças na família: quando buscar uma avaliação.
+- [Terapia para adolescentes: como funciona e qual é o papel dos pais?](https://psiconicoletartarelli.com.br/conteudos/psicanalise-adolescentes-pais/): A escuta do adolescente, a participação da família e os cuidados com o sigilo.
+- [Psicologia, Psicanálise e TCC: qual a diferença?](https://psiconicoletartarelli.com.br/conteudos/diferenca-psicologia-psicanalise-tcc/): Entenda os termos e saiba o que perguntar ao procurar atendimento.
+- [Primeiras sessões de psicanálise e o papel dos pais](https://psiconicoletartarelli.com.br/conteudos/primeira-sessao-psicanalise/): Entrevistas preliminares, dúvidas iniciais e a participação dos responsáveis.
+- [Ansiedade, angústia e repetição de padrões: o lugar da escuta](https://psiconicoletartarelli.com.br/conteudos/ansiedade-angustia-repeticao-padroes/): Como falar sobre o sofrimento sem reduzir cada experiência a uma explicação pronta.
+- [Psicanálise online funciona?](https://psiconicoletartarelli.com.br/conteudos/psicanalise-online-funciona/): O espaço de escuta por videochamada e os cuidados para escolher a modalidade.
+- [Quanto tempo dura um tratamento psicanalítico?](https://psiconicoletartarelli.com.br/conteudos/quanto-tempo-dura-tratamento-psicanalitico/): Duração das sessões, frequência e conversas sobre continuidade e encerramento.
 
 ## Perfil profissional
 

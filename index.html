@@ -36,99 +36,167 @@
     <meta name="twitter:image" content="https://psiconicoletartarelli.com.br/img/nicole%20-%20Copia.jpeg">
 
     <!-- JSON-LD Structured Data -->
-    <script type="application/ld+json">
+    <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "WebSite",
-          "@id": "https://psiconicoletartarelli.com.br/#website",
-          "url": "https://psiconicoletartarelli.com.br/",
-          "name": "Psicóloga Nicole Tartarelli",
-          "inLanguage": "pt-BR",
-          "publisher": {"@id": "https://psiconicoletartarelli.com.br/#consultorio"}
-        },
-        {
-          "@type": "WebPage",
-          "@id": "https://psiconicoletartarelli.com.br/#webpage",
-          "url": "https://psiconicoletartarelli.com.br/",
-          "name": "Psicóloga na Zona Sul de Porto Alegre | Nicole Tartarelli",
-          "inLanguage": "pt-BR",
-          "isPartOf": {"@id": "https://psiconicoletartarelli.com.br/#website"},
-          "about": {"@id": "https://psiconicoletartarelli.com.br/#nicole"},
-          "mainEntity": {"@id": "https://psiconicoletartarelli.com.br/#consultorio"}
-        },
-        {
-          "@type": "Person",
-          "@id": "https://psiconicoletartarelli.com.br/#nicole",
-          "name": "Nicole Abreu Tartarelli",
-          "alternateName": "Nicole Tartarelli",
-          "jobTitle": "Psicóloga",
-          "description": "Psicóloga formada pela PUCRS, CRP 07/29435, especialista em psicoterapia de orientação psicanalítica pelo Instituto Horizontes. Atende crianças, adolescentes e adultos.",
-          "url": "https://psiconicoletartarelli.com.br/#about",
-          "image": "https://psiconicoletartarelli.com.br/img/nicole%20-%20Copia.jpeg",
-          "alumniOf": {"@type": "CollegeOrUniversity", "name": "Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)"},
-          "hasCredential": {
-            "@type": "EducationalOccupationalCredential",
-            "credentialCategory": "Registro profissional",
-            "name": "CRP 07/29435"
-          },
-          "knowsAbout": ["Psicoterapia de orientação psicanalítica", "Psicoterapia infantil", "Psicoterapia para adolescentes", "Psicoterapia para adultos"],
-          "worksFor": {"@id": "https://psiconicoletartarelli.com.br/#consultorio"},
-          "sameAs": ["https://www.instagram.com/nictartarellipsi/"]
-        },
-        {
-          "@type": "MedicalBusiness",
-          "@id": "https://psiconicoletartarelli.com.br/#consultorio",
-          "name": "Psicóloga Nicole Tartarelli",
-          "description": "Psicoterapia de orientação psicanalítica para crianças, adolescentes e adultos no bairro Cristal, Zona Sul de Porto Alegre. Atendimento presencial e online, conforme avaliação individual.",
-          "url": "https://psiconicoletartarelli.com.br/",
-          "telephone": "+55-51-99313-2970",
-          "email": "psinictartarelli@gmail.com",
-          "image": "https://psiconicoletartarelli.com.br/img/nicole%20-%20Copia.jpeg",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Av. Wenceslau Escobar, 1134 - Sala 310, Bairro Cristal",
-            "addressLocality": "Porto Alegre",
-            "addressRegion": "RS",
-            "postalCode": "91910-712",
-            "addressCountry": "BR"
-          },
-          "geo": {"@type": "GeoCoordinates", "latitude": -30.100149, "longitude": -51.250807},
-          "areaServed": {"@type": "City", "name": "Porto Alegre"},
-          "employee": {"@id": "https://psiconicoletartarelli.com.br/#nicole"},
-          "sameAs": ["https://www.instagram.com/nictartarellipsi/"],
-          "hasOfferCatalog": {
-            "@type": "OfferCatalog",
-            "name": "Atendimentos psicológicos",
-            "itemListElement": [
-              {"@type": "Offer", "itemOffered": {"@id": "https://psiconicoletartarelli.com.br/psicologa-infantil-porto-alegre/#servico"}},
-              {"@type": "Offer", "itemOffered": {"@id": "https://psiconicoletartarelli.com.br/psicologa-adolescentes-porto-alegre/#servico"}},
-              {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Psicoterapia para adultos", "url": "https://psiconicoletartarelli.com.br/#presencial", "provider": {"@id": "https://psiconicoletartarelli.com.br/#consultorio"}}}
-            ]
-          }
-        },
-        {
-          "@type": "Service",
-          "@id": "https://psiconicoletartarelli.com.br/psicologa-infantil-porto-alegre/#servico",
-          "name": "Psicoterapia infantil na Zona Sul de Porto Alegre",
-          "serviceType": "Psicoterapia infantil de orientação psicanalítica",
-          "url": "https://psiconicoletartarelli.com.br/psicologa-infantil-porto-alegre/",
-          "provider": {"@id": "https://psiconicoletartarelli.com.br/#consultorio"},
-          "areaServed": {"@type": "City", "name": "Porto Alegre"}
-        },
-        {
-          "@type": "Service",
-          "@id": "https://psiconicoletartarelli.com.br/psicologa-adolescentes-porto-alegre/#servico",
-          "name": "Psicoterapia para adolescentes na Zona Sul de Porto Alegre",
-          "serviceType": "Psicoterapia para adolescentes de orientação psicanalítica",
-          "url": "https://psiconicoletartarelli.com.br/psicologa-adolescentes-porto-alegre/",
-          "provider": {"@id": "https://psiconicoletartarelli.com.br/#consultorio"},
-          "areaServed": {"@type": "City", "name": "Porto Alegre"}
-        }
+      "@type": "WebSite",
+      "@id": "https://psiconicoletartarelli.com.br/#website",
+      "url": "https://psiconicoletartarelli.com.br/",
+      "name": "Psicóloga Nicole Tartarelli",
+      "inLanguage": "pt-BR",
+      "publisher": {
+        "@id": "https://psiconicoletartarelli.com.br/#consultorio"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://psiconicoletartarelli.com.br/#webpage",
+      "url": "https://psiconicoletartarelli.com.br/",
+      "name": "Psicóloga na Zona Sul de Porto Alegre | Nicole Tartarelli",
+      "inLanguage": "pt-BR",
+      "isPartOf": {
+        "@id": "https://psiconicoletartarelli.com.br/#website"
+      },
+      "about": {
+        "@id": "https://psiconicoletartarelli.com.br/#nicole"
+      },
+      "mainEntity": {
+        "@id": "https://psiconicoletartarelli.com.br/#consultorio"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://psiconicoletartarelli.com.br/#nicole",
+      "name": "Nicole Abreu Tartarelli",
+      "alternateName": "Nicole Tartarelli",
+      "jobTitle": "Psicóloga",
+      "description": "Psicóloga formada pela PUCRS, CRP 07/29435, especialista em psicoterapia de orientação psicanalítica pelo Instituto Horizontes. Psicanalista em formação pelo CEPdePA – Centro de Estudos Psicanalíticos de Porto Alegre. Atende crianças, adolescentes e adultos.",
+      "url": "https://psiconicoletartarelli.com.br/#about",
+      "image": "https://psiconicoletartarelli.com.br/img/nicole%20-%20Copia.jpeg",
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)"
+      },
+      "hasCredential": {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "Registro profissional",
+        "name": "CRP 07/29435"
+      },
+      "knowsAbout": [
+        "Psicoterapia de orientação psicanalítica",
+        "Psicoterapia infantil",
+        "Psicoterapia para adolescentes",
+        "Psicoterapia para adultos"
+      ],
+      "worksFor": {
+        "@id": "https://psiconicoletartarelli.com.br/#consultorio"
+      },
+      "sameAs": [
+        "https://www.instagram.com/nictartarellipsi/"
       ]
+    },
+    {
+      "@type": "MedicalBusiness",
+      "@id": "https://psiconicoletartarelli.com.br/#consultorio",
+      "name": "Psicóloga Nicole Tartarelli",
+      "description": "Psicoterapia de orientação psicanalítica para crianças, adolescentes e adultos no bairro Cristal, Zona Sul de Porto Alegre. Atendimento presencial e online, conforme avaliação individual.",
+      "url": "https://psiconicoletartarelli.com.br/",
+      "telephone": "+55-51-99313-2970",
+      "email": "psinictartarelli@gmail.com",
+      "image": "https://psiconicoletartarelli.com.br/img/nicole%20-%20Copia.jpeg",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Wenceslau Escobar, 1134 - Sala 310, Bairro Cristal",
+        "addressLocality": "Porto Alegre",
+        "addressRegion": "RS",
+        "postalCode": "91910-712",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -30.100149,
+        "longitude": -51.250807
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Porto Alegre"
+      },
+      "employee": {
+        "@id": "https://psiconicoletartarelli.com.br/#nicole"
+      },
+      "sameAs": [
+        "https://www.instagram.com/nictartarellipsi/"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Atendimentos psicológicos",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@id": "https://psiconicoletartarelli.com.br/psicologa-infantil-porto-alegre/#servico"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@id": "https://psiconicoletartarelli.com.br/psicologa-adolescentes-porto-alegre/#servico"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@id": "https://psiconicoletartarelli.com.br/psicanalise-adultos-porto-alegre/#servico"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://psiconicoletartarelli.com.br/psicologa-infantil-porto-alegre/#servico",
+      "name": "Psicoterapia infantil na Zona Sul de Porto Alegre",
+      "serviceType": "Psicoterapia infantil de orientação psicanalítica",
+      "url": "https://psiconicoletartarelli.com.br/psicologa-infantil-porto-alegre/",
+      "provider": {
+        "@id": "https://psiconicoletartarelli.com.br/#consultorio"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Porto Alegre"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://psiconicoletartarelli.com.br/psicologa-adolescentes-porto-alegre/#servico",
+      "name": "Psicoterapia para adolescentes na Zona Sul de Porto Alegre",
+      "serviceType": "Psicoterapia para adolescentes de orientação psicanalítica",
+      "url": "https://psiconicoletartarelli.com.br/psicologa-adolescentes-porto-alegre/",
+      "provider": {
+        "@id": "https://psiconicoletartarelli.com.br/#consultorio"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Porto Alegre"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://psiconicoletartarelli.com.br/psicanalise-adultos-porto-alegre/#servico",
+      "name": "Psicoterapia para adultos na Zona Sul de Porto Alegre",
+      "serviceType": "Psicoterapia para adultos de orientação psicanalítica",
+      "url": "https://psiconicoletartarelli.com.br/psicanalise-adultos-porto-alegre/",
+      "provider": {
+        "@id": "https://psiconicoletartarelli.com.br/#consultorio"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Porto Alegre"
+      }
     }
-    </script>
+  ]
+}</script>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap"
@@ -163,6 +231,7 @@
                     <a href="#atendimentos" class="nav-item nav-link">Atendimentos</a>
                     <a href="#presencial" class="nav-item nav-link">Psicoterapia Presencial</a>
                     <a href="#online" class="nav-item nav-link">Psicoterapia Online</a>
+                    <a href="/conteudos/" class="nav-item nav-link">Conteúdos</a>
                     <a href="#contact" class="nav-item nav-link">Contato</a>
                 </div>
             </div>
@@ -212,6 +281,7 @@
                             <p>
                                 Olá! Meu nome é Nicole Tartarelli, sou psicóloga formada pela PUCRS (CRP: 07/29435) e
                                 especialista em psicoterapia de orientação psicanalítica, pelo Instituto Horizontes.
+                                Sou psicanalista em formação pelo CEPdePA – Centro de Estudos Psicanalíticos de Porto Alegre.
                                 Atuo como psicoterapeuta de orientação analítica em atendimentos presenciais e on-line
                                 para crianças, adolescentes e adultos. Acredito que a psicanálise proporciona com que o
                                 indivíduo encontre, através da própria história, outras narrativas, (re)significações e
@@ -248,9 +318,9 @@
                     <a href="/psicologa-adolescentes-porto-alegre/">Conheça o atendimento para adolescentes</a>
                 </article>
                 <article class="care-card">
-                    <h3>Psicoterapia para adultos</h3>
+                    <h3><a href="/psicanalise-adultos-porto-alegre/">Psicoterapia para adultos</a></h3>
                     <p>Escuta de orientação psicanalítica para pensar sobre sua história, relações e inquietações, em consultas presenciais ou online.</p>
-                    <a href="#service">Entenda a abordagem psicanalítica</a>
+                    <a href="/psicanalise-adultos-porto-alegre/">Conheça o atendimento para adultos</a>
                 </article>
             </div>
         </div>
@@ -383,7 +453,7 @@
                 <h3>A Nicole atende crianças e adolescentes?</h3>
                 <p>Sim. Nicole Tartarelli atende crianças, adolescentes e adultos com psicoterapia de orientação psicanalítica. Conheça o <a href="/psicologa-infantil-porto-alegre/">atendimento infantil</a> e o <a href="/psicologa-adolescentes-porto-alegre/">atendimento para adolescentes</a>.</p>
                 <h3>Qual é a formação da psicóloga?</h3>
-                <p>Nicole Abreu Tartarelli é psicóloga formada pela PUCRS, inscrita no CRP sob o número 07/29435, e especialista em psicoterapia de orientação psicanalítica pelo Instituto Horizontes.</p>
+                <p>Nicole Abreu Tartarelli é psicóloga formada pela PUCRS, inscrita no CRP sob o número 07/29435, e especialista em psicoterapia de orientação psicanalítica pelo Instituto Horizontes. Psicanalista em formação pelo CEPdePA – Centro de Estudos Psicanalíticos de Porto Alegre.</p>
                 <h3>Quanto tempo dura uma consulta?</h3>
                 <p>As consultas têm duração de 45 minutos e os encontros são, no mínimo, semanais.</p>
                 <h3>É possível fazer psicoterapia online?</h3>
@@ -454,7 +524,9 @@
                     <nav class="footer-links" aria-label="Atendimentos psicológicos">
                         <a href="/psicologa-infantil-porto-alegre/">Psicoterapia infantil</a>
                         <a href="/psicologa-adolescentes-porto-alegre/">Psicoterapia para adolescentes</a>
+                        <a href="/psicanalise-adultos-porto-alegre/">Psicoterapia para adultos</a>
                         <a href="#perguntas-frequentes">Perguntas frequentes</a>
+                        <a href="/conteudos/">Conteúdos</a>
                     </nav>
                     <div class="footer-social">
                         <a href="https://www.instagram.com/nictartarellipsi/" aria-label="Instagram da Psicóloga Nicole Tartarelli"><i class="fab fa-instagram"></i></a>
