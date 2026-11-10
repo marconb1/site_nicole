@@ -32,6 +32,7 @@
 .contents-page .content-card h3 { font-size: 23px; line-height: 1.4; margin: 0 0 16px; }
 .content-card-copy > p:not(.content-category) { font-size: 15px; }
 .content-read { display: flex; justify-content: space-between; gap: 12px; margin-top: auto; padding-top: 12px; color: var(--color-link); font-size: 14px; font-weight: 600; }
+.content-authorship { display: block; margin: 4px 0 14px; color: var(--color-muted); font-size: 12px; line-height: 1.7; }
 .contents-contact { display: flex; align-items: center; justify-content: space-between; gap: 36px; margin: 72px 0; padding: 36px; background: var(--color-rose); border-radius: 16px; }
 .contents-page .contents-contact h2 { font-size: 24px; margin-bottom: 12px; }
 .contents-page .contents-contact p { margin: 0; max-width: 740px; font-size: 15px; }
@@ -41,6 +42,10 @@
 .article-body { max-width: 800px; margin: 0 auto; padding: 32px 0 64px; }
 .article-page .article-heading h1 { font-size: clamp(30px, 4vw, 46px); letter-spacing: -1px; line-height: 1.2; }
 .article-heading { margin-bottom: 36px; padding-bottom: 24px; border-bottom: 1px solid var(--color-border); }
+.article-page .article-byline { margin: 18px 0 8px; font-size: 14px; line-height: 1.8; }
+.article-page .article-origin { margin: 0; color: var(--color-muted); font-size: 13px; line-height: 1.7; }
+.article-essay blockquote { margin: 28px 0; padding: 18px 24px; border-left: 4px solid var(--color-primary); background: var(--color-rose); }
+.article-page .article-essay blockquote p:last-child { margin-bottom: 0; }
 .article-copy { font-size: 17px; line-height: 1.9; }
 .article-page .article-lead { font-size: 20px; line-height: 1.75; color: var(--color-link); }
 .article-page .article-copy h2 { margin-top: 40px; font-size: 26px; }

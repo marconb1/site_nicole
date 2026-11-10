@@ -2,11 +2,13 @@
 
 O site é HTML estático, sem painel de administração nem etapa de build.
 A listagem fica em `conteudos/index.html`; o visual, em `css/conteudos.css`.
-A listagem destaca seis artigos sobre infância, adolescência, processo
+A listagem começa com cinco ensaios de autoria de Nicole, importados do
+Substack e documentados em `SUBSTACK.md`. Depois, destaca seis artigos sobre infância, adolescência, processo
 terapêutico e sofrimento. Duas leituras complementares tratam de atendimento
 online e duração. Há também três guias de atendimento: infantil, adolescentes
-e adultos. Cada artigo tem página própria, referências,
-perguntas frequentes, perfil profissional e links para outras leituras.
+e adultos. Os guias têm página própria, referências, perguntas frequentes,
+perfil profissional e links para outras leituras. Os ensaios preservam a
+estrutura original, com autoria, data e link para o Substack, sem FAQs novas.
 
 ## Adicionar um artigo
 
@@ -32,12 +34,14 @@ perguntas frequentes, perfil profissional e links para outras leituras.
    publicar pelo processo habitual do site.
 
 Os textos estão formatados para o leitor final, conforme
-solicitado. A avaliação da Nicole acontece antes da publicação pelo fluxo
-habitual do repositório. Não há avisos editoriais nas páginas, atribuição de
-autoria, indicação de revisão realizada ou datas de publicação fictícias.
-A caixa “Conheça Nicole” apresenta a profissional e sua formação; não é uma
-assinatura de autoria. Ao definir a autoria e a revisão reais, acrescentar
-essas informações de forma consistente no texto e nos dados estruturados.
+solicitado. A avaliação dos guias pela Nicole acontece antes da publicação
+pelo fluxo habitual do repositório. Nos guias, não há atribuição de autoria,
+indicação de revisão realizada ou datas de publicação fictícias. A caixa
+“Conheça Nicole” apresenta a profissional e sua formação; não é uma assinatura
+de autoria. Ao definir a autoria e a revisão reais, acrescentar essas
+informações de forma consistente no texto e nos dados estruturados.
+Nos ensaios importados do Substack, a autoria de Nicole e a data original
+estão identificadas na página e no JSON-LD, a partir da publicação de origem.
 Não criar cards clicáveis para artigos inexistentes.
 
 ## Próximas pautas

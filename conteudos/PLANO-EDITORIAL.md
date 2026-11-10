@@ -1,5 +1,12 @@
 # Plano editorial
 
+## Ensaios de autoria de Nicole
+
+A seção “Textos de Nicole” aparece primeiro na listagem. São cinco artigos
+já publicados pela profissional no Substack, preservados com assinatura,
+data original e fonte. O inventário e os critérios de conversão estão em
+`SUBSTACK.md`. Os guias e as leituras complementares permanecem abaixo.
+
 ## Seis leituras prioritárias
 
 1. **Infância — brincar:** Como funciona a psicanálise infantil e por que o
@@ -53,7 +60,9 @@ de serviços. A página de adultos é `/psicanalise-adultos-porto-alegre/`.
   participação e à autorização dos responsáveis.
 - Não atribuir violência sofrida a um suposto desejo de repetir padrões.
 - A prática oferecida é psicoterapia de orientação psicanalítica. Nicole é
-  identificada como psicóloga e psicanalista em formação pelo CEPdePA.
+  identificada como psicóloga e psicanalista, conforme confirmação da
+  profissional. É docente de Psicanálise no Instituto Horizontes e cursa
+  formação psicanalítica no CEPdePA.
 - Textos apresentam linguagem para o leitor final, sem avisos de revisão.
   Autoria e revisão realizadas só devem ser atribuídas quando confirmadas.
 
