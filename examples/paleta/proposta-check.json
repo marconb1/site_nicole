@@ -1,0 +1,684 @@
+{
+  "base": "http://127.0.0.1:8765",
+  "results": [
+    {
+      "path": "/",
+      "title": "Psicóloga na Zona Sul de Porto Alegre | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "h1": 1,
+      "checkedText": 68,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(65, 65, 65)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/lib/animate/animate.min.css",
+          "rules": 158
+        },
+        {
+          "href": "http://127.0.0.1:8765/lib/owlcarousel/assets/owl.carousel.min.css",
+          "rules": 32
+        },
+        {
+          "href": "http://127.0.0.1:8765/lib/lightbox/css/lightbox.min.css",
+          "rules": 29
+        },
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/psicologa-infantil-porto-alegre/",
+      "title": "Psicóloga Infantil em Porto Alegre, Zona Sul | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/psicologa-infantil-porto-alegre/",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "h1": 1,
+      "checkedText": 47,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/psicologa-adolescentes-porto-alegre/",
+      "title": "Psicóloga para Adolescentes em Porto Alegre | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/psicologa-adolescentes-porto-alegre/",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "h1": 1,
+      "checkedText": 46,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/psicanalise-adultos-porto-alegre/",
+      "title": "Psicanálise para Adultos em Porto Alegre | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/psicanalise-adultos-porto-alegre/",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "h1": 1,
+      "checkedText": 53,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/conteudos/",
+      "title": "Conteúdos sobre psicoterapia | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/conteudos/",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "h1": 1,
+      "checkedText": 71,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": null,
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        },
+        {
+          "href": "http://127.0.0.1:8765/css/conteudos.css",
+          "rules": 65
+        }
+      ]
+    },
+    {
+      "path": "/conteudos/psicanalise-infantil-brincar/",
+      "title": "Psicanálise infantil: por que o brincar é fundamental? | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/conteudos/psicanalise-infantil-brincar/",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "h1": 1,
+      "checkedText": 53,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": null,
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        },
+        {
+          "href": "http://127.0.0.1:8765/css/conteudos.css",
+          "rules": 65
+        }
+      ]
+    },
+    {
+      "path": "/",
+      "title": "Psicóloga na Zona Sul de Porto Alegre | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "checkedText": 61,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(65, 65, 65)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/lib/animate/animate.min.css",
+          "rules": 158
+        },
+        {
+          "href": "http://127.0.0.1:8765/lib/owlcarousel/assets/owl.carousel.min.css",
+          "rules": 32
+        },
+        {
+          "href": "http://127.0.0.1:8765/lib/lightbox/css/lightbox.min.css",
+          "rules": 29
+        },
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/psicologa-infantil-porto-alegre/",
+      "title": "Psicóloga Infantil em Porto Alegre, Zona Sul | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/psicologa-infantil-porto-alegre/",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "checkedText": 47,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/psicologa-adolescentes-porto-alegre/",
+      "title": "Psicóloga para Adolescentes em Porto Alegre | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/psicologa-adolescentes-porto-alegre/",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "checkedText": 46,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/psicanalise-adultos-porto-alegre/",
+      "title": "Psicanálise para Adultos em Porto Alegre | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/psicanalise-adultos-porto-alegre/",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "checkedText": 53,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/conteudos/",
+      "title": "Conteúdos sobre psicoterapia | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/conteudos/",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "checkedText": 71,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": null,
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        },
+        {
+          "href": "http://127.0.0.1:8765/css/conteudos.css",
+          "rules": 65
+        }
+      ]
+    },
+    {
+      "path": "/conteudos/psicanalise-infantil-brincar/",
+      "title": "Psicanálise infantil: por que o brincar é fundamental? | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/conteudos/psicanalise-infantil-brincar/",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1": 1,
+      "checkedText": 53,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": null,
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        },
+        {
+          "href": "http://127.0.0.1:8765/css/conteudos.css",
+          "rules": 65
+        }
+      ]
+    },
+    {
+      "path": "/",
+      "title": "Psicóloga na Zona Sul de Porto Alegre | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/",
+      "width": 320,
+      "scrollWidth": 320,
+      "h1": 1,
+      "checkedText": 57,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(65, 65, 65)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/lib/animate/animate.min.css",
+          "rules": 158
+        },
+        {
+          "href": "http://127.0.0.1:8765/lib/owlcarousel/assets/owl.carousel.min.css",
+          "rules": 32
+        },
+        {
+          "href": "http://127.0.0.1:8765/lib/lightbox/css/lightbox.min.css",
+          "rules": 29
+        },
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/psicologa-infantil-porto-alegre/",
+      "title": "Psicóloga Infantil em Porto Alegre, Zona Sul | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/psicologa-infantil-porto-alegre/",
+      "width": 320,
+      "scrollWidth": 320,
+      "h1": 1,
+      "checkedText": 47,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/psicologa-adolescentes-porto-alegre/",
+      "title": "Psicóloga para Adolescentes em Porto Alegre | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/psicologa-adolescentes-porto-alegre/",
+      "width": 320,
+      "scrollWidth": 320,
+      "h1": 1,
+      "checkedText": 46,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/psicanalise-adultos-porto-alegre/",
+      "title": "Psicanálise para Adultos em Porto Alegre | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/psicanalise-adultos-porto-alegre/",
+      "width": 320,
+      "scrollWidth": 320,
+      "h1": 1,
+      "checkedText": 53,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": {
+          "background": "rgb(250, 241, 243)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        }
+      ]
+    },
+    {
+      "path": "/conteudos/",
+      "title": "Conteúdos sobre psicoterapia | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/conteudos/",
+      "width": 320,
+      "scrollWidth": 320,
+      "h1": 1,
+      "checkedText": 71,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": null,
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        },
+        {
+          "href": "http://127.0.0.1:8765/css/conteudos.css",
+          "rules": 65
+        }
+      ]
+    },
+    {
+      "path": "/conteudos/psicanalise-infantil-brincar/",
+      "title": "Psicanálise infantil: por que o brincar é fundamental? | Nicole Tartarelli",
+      "url": "http://127.0.0.1:8765/conteudos/psicanalise-infantil-brincar/",
+      "width": 320,
+      "scrollWidth": 320,
+      "h1": 1,
+      "checkedText": 53,
+      "contrastFailures": [],
+      "brokenImages": [],
+      "palette": {
+        "hero": null,
+        "heading": {
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(65, 65, 65)"
+        },
+        "button": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "footer": {
+          "background": "rgb(85, 107, 144)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "localStyles": [
+        {
+          "href": "http://127.0.0.1:8765/css/style.css",
+          "rules": 258
+        },
+        {
+          "href": "http://127.0.0.1:8765/css/conteudos.css",
+          "rules": 65
+        }
+      ]
+    }
+  ],
+  "exceptions": [],
+  "responses": [
+    {
+      "url": "http://127.0.0.1:8765/favicon.ico",
+      "status": 404
+    }
+  ]
+}
